@@ -1,0 +1,13 @@
+*.iml
+piaoMiao-parent/out/*
+piaoMiao-api/out/*
+piaoMiao-web/out/*
+
+piaoMiao-parent/.idea/*
+piaoMiao-api/.idea/*
+piaoMiao-web/.idea/*
+
+piaoMiao-parent/target/*
+piaoMiao-api/target/*
+piaoMiao-web/target/*
+
